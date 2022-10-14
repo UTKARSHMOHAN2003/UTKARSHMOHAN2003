@@ -1,7 +1,7 @@
 [![@utkarshmohan2003's Holopin board](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://holopin.io/@utkarshmohan2003)
 
 <h1 align="center">Hi 👋, I'm UTKARSH MOHAN</h1>
-<h3 align="center">A passionate WEB DEVELOPER and APP DEVELOPER</h3>
+<h3 align="center">A passionate WEB DEVELOPER and PC GAMER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmohan2003&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmohan2003" /> </p>
 
