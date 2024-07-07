@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PYTHON,C,DJANGO,HTML,CSS,MYSQL**
 
-- 📄 Know about my experiences [https://bit.ly/3S38R22](https://bit.ly/3S38R22)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1inLdySH0er_u7ocP7zRRl88vEwJAiOQV/view?usp=drive_link)
 
 - ⚡ Fun fact **BE BETTER than YOURSELF**
 [![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003)
