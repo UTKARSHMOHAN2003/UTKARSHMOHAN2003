@@ -1,4 +1,4 @@
-[![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003)
+[![@utkarshmohan2003's Holopin board](https://holopin.io/@utkarshmohan2003)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Mohan</h1>
 <h3 align="center">Software Developer | Full-Stack | Web3 Curious | Build Fast, Ship Fast 🚀</h3>
@@ -68,7 +68,7 @@
 ## 📄 Resume
 
 📌 **View my latest resume:**  
-👉 [Resume Link](https://drive.google.com/file/d/1RiVDhd3iVQ3rDoSs8fMfupk4xSv3ofDO/view)
+👉 [Resume Link](https://drive.google.com/file/d/1dAhWmIesS2OURwLICj8a1dJpK6JiEa4t/view?usp=sharing)
 
 ---
 
