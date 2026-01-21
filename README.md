@@ -1,36 +1,111 @@
-[![@utkarshmohan2003's Holopin board](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://holopin.io/@utkarshmohan2003)
-
-<h1 align="center">Hi 👋, I'm UTKARSH MOHAN</h1>
-<h3 align="center">A passionate WEB DEVELOPER and 🎮 GAMER </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmohan2003&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmohan2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshmohan2003" alt="utkarshmohan2003" /></a> </p>
-
-- 🔭 I’m currently working on **NETFILX CLONE**  
-
-- 🌱 I’m currently learning **DSA,WEB DEVELOPMENT.**
-
-- 💬 Ask me about **PYTHON,C,DJANGO,HTML,CSS,MYSQL**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RiVDhd3iVQ3rDoSs8fMfupk4xSv3ofDO/view?usp=sharing]
-
-- ⚡ Fun fact **BE BETTER than YOURSELF**
 [![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003)
-[![@utkarshmohan2003's Holopin board](https://media0.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif)](https://holopin.io/@utkarshmohan2003)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utkarsh mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh mohan" height="30" width="40" /></a>
-<a href="https://instagram.com/theutkarshmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theutkarshmohan" height="30" width="40" /></a>
-<a href="https://discord.gg/MOHAN#4849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MOHAN#4849" height="30" width="40" /></a>
+
+<h1 align="center">Hi 👋, I'm Utkarsh Mohan</h1>
+<h3 align="center">Software Developer | Full-Stack | Web3 Curious | Build Fast, Ship Fast 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshmohan2003&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshmohan2003&show_icons=true&locale=en&layout=compact" alt="utkarshmohan2003" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarshmohan2003&show_icons=true&locale=en" alt="utkarshmohan2003" /></p>
+- 🧠 Software Developer focused on **fast iteration & scalable systems**
+- 🚀 Founder & Developer at **EcoXange** (Web3 Carbon Trading Platform)
+- 🏗️ Building **AI & SaaS products** (Calling agents, dashboards, automation)
+- 🏀 Captain – ABES Engineering Basketball Team (Gold @ URJA 2K24)
+- ⚡ Philosophy: **Be better than yesterday**
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshmohan2003&" alt="utkarshmohan2003" /></p>
+---
 
+## 🔭 Currently Working On
+
+- 🤖 **AI Calling & Communication Platforms**
+- 🌱 **Next.js + Supabase Production Apps**
+- 🔐 **Auth, Analytics & Real-time Systems**
+- 🧩 **Scalable Backend Architectures**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js, Next.js (App Router)
+- TypeScript, JavaScript
+- Tailwind CSS, shadcn/ui
+- Redux, React Hook Form
+
+### **Backend**
+- Node.js, Express
+- Supabase (Postgres, Auth, Storage, Realtime)
+- Firebase (Auth, Firestore)
+- REST APIs, WebSockets
+
+### **Web3**
+- Solidity, Hardhat, Truffle
+- Ethereum, MetaMask Integration
+- Smart Contracts & NFT-based systems
+
+### **AI / Voice**
+- Deepgram (Real-time Transcription)
+- ElevenLabs (TTS Streaming)
+- Twilio (Calling, Batch Calls)
+
+### **Databases**
+- PostgreSQL, MySQL
+- Prisma ORM
+- Firestore
+
+### **DevOps & Tools**
+- Git & GitHub
+- Vercel, AWS
+- Docker (Basics)
+- CI/CD Concepts
+
+---
+
+## 📄 Resume
+
+📌 **View my latest resume:**  
+👉 [Resume Link](https://drive.google.com/file/d/1RiVDhd3iVQ3rDoSs8fMfupk4xSv3ofDO/view)
+
+---
+
+## 💬 Ask Me About
+
+- Full-Stack Development
+- Next.js + Supabase Architecture
+- Real-time systems & dashboards
+- Web3 & Smart Contracts
+- Startup MVPs & SaaS scaling
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/utkarsh-mohan" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshmohan2003&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshmohan2003&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmohan2003&layout=compact&theme=react" />
+</p>
+
+---
+
+🔥 *Always building. Always shipping.*
