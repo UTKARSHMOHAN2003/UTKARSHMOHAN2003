@@ -1,4 +1,9 @@
-[![@utkarshmohan2003's Holopin board](https://holopin.io/@utkarshmohan2003)
+<p align="center">
+  <a href="https://holopin.io/@utkarshmohan2003">
+    <img src="https://holopin.io/api/user/board?user=utkarshmohan2003" />
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Utkarsh Mohan</h1>
 <h3 align="center">Software Developer | Full-Stack | Web3 Curious | Build Fast, Ship Fast 🚀</h3>
@@ -85,7 +90,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/utkarsh-mohan" target="_blank">
+<a href="https://www.linkedin.com/in/utkarsh-mohan-256b2a226/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
