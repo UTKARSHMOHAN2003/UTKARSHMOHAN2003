@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://holopin.io/@utkarshmohan2003">
-    <img src="https://holopin.io/api/user/board?user=utkarshmohan2003" alt="Holopin badges"/>
-  </a>
-</p>
+[![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003)
+
 
 
 
