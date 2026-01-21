@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://holopin.io/@utkarshmohan2003">
-    <img src="https://holopin.io/api/user/board?user=utkarshmohan2003" />
+    <img src="https://holopin.io/api/user/board?user=utkarshmohan2003" alt="Holopin badges"/>
   </a>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Utkarsh Mohan</h1>
