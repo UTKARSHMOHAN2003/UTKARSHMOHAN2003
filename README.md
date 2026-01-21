@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <a href="https://holopin.io/@utkarshmohan2003"> HACKTOBERFEST
-  </a>
+ [![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003) HACKTOBERFEST
+
 </p>
 
 <h1 align="center">Utkarsh Mohan</h1>
