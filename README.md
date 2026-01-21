@@ -1,114 +1,98 @@
 [![@utkarshmohan2003's Holopin board](https://holopin.io/api/user/board?user=utkarshmohan2003)](https://holopin.io/@utkarshmohan2003)
 
-
-
-
 <h1 align="center">Hi 👋, I'm Utkarsh Mohan</h1>
-<h3 align="center">Software Developer | Full-Stack | Web3 Curious | Build Fast, Ship Fast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshmohan2003&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <b>Software Developer • Full-Stack • AI & Web3</b><br/>
+  <i>Build Fast • Ship Fast • Iterate Faster 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshmohan2003&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Quick Snapshot
 
-- 🧠 Software Developer focused on **fast iteration & scalable systems**
-- 🚀 Founder & Developer at **EcoXange** (Web3 Carbon Trading Platform)
-- 🏗️ Building **AI & SaaS products** (Calling agents, dashboards, automation)
-- 🏀 Captain – ABES Engineering Basketball Team (Gold @ URJA 2K24)
-- ⚡ Philosophy: **Be better than yesterday**
-
----
-
-## 🔭 Currently Working On
-
-- 🤖 **AI Calling & Communication Platforms**
-- 🌱 **Next.js + Supabase Production Apps**
-- 🔐 **Auth, Analytics & Real-time Systems**
-- 🧩 **Scalable Backend Architectures**
+- 🚀 Founder & Core Developer @ **EcoXange**
+- 🤖 Building **AI Calling & SaaS Platforms**
+- 🧩 Loves scalable systems & clean architecture
+- 🏀 Basketball Captain | URJA 2K24 🥇
+- 🧠 Belief: *Be better than yesterday*
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 What I’m Building Right Now
 
-### **Frontend**
-- React.js, Next.js (App Router)
-- TypeScript, JavaScript
-- Tailwind CSS, shadcn/ui
-- Redux, React Hook Form
+- 📞 **AI Calling Agents (Realtime, Human-like)**
+- ⚙️ **Next.js + Supabase Production Apps**
+- 📊 **Dashboards, Analytics & Automation**
+- 🔐 **Auth, Realtime & Scalable Backends**
 
-### **Backend**
-- Node.js, Express
-- Supabase (Postgres, Auth, Storage, Realtime)
-- Firebase (Auth, Firestore)
-- REST APIs, WebSockets
+---
 
-### **Web3**
-- Solidity, Hardhat, Truffle
-- Ethereum, MetaMask Integration
-- Smart Contracts & NFT-based systems
+## 🛠 Tech Stack (What I Actually Use)
 
-### **AI / Voice**
-- Deepgram (Real-time Transcription)
-- ElevenLabs (TTS Streaming)
-- Twilio (Calling, Batch Calls)
+**Frontend**  
+`React` `Next.js` `TypeScript` `Tailwind` `shadcn/ui`
 
-### **Databases**
-- PostgreSQL, MySQL
-- Prisma ORM
-- Firestore
+**Backend**  
+`Node.js` `Express` `Supabase` `Firebase` `REST` `WebSockets`
 
-### **DevOps & Tools**
-- Git & GitHub
-- Vercel, AWS
-- Docker (Basics)
-- CI/CD Concepts
+**AI / Voice**  
+`Deepgram` `ElevenLabs` `Twilio`
+
+**Web3**  
+`Solidity` `Ethereum` `Hardhat` `NFTs`
+
+**Database & Tools**  
+`PostgreSQL` `MySQL` `Prisma` `Git` `Vercel` `AWS`
 
 ---
 
 ## 📄 Resume
 
-📌 **View my latest resume:**  
-👉 [Resume Link](https://drive.google.com/file/d/1dAhWmIesS2OURwLICj8a1dJpK6JiEa4t/view?usp=sharing)
+👉 **[View My Resume](https://drive.google.com/file/d/1dAhWmIesS2OURwLICj8a1dJpK6JiEa4t/view?usp=sharing)**
 
 ---
 
 ## 💬 Ask Me About
 
-- Full-Stack Development
-- Next.js + Supabase Architecture
-- Real-time systems & dashboards
-- Web3 & Smart Contracts
-- Startup MVPs & SaaS scaling
+- Full-Stack Architecture
+- Next.js + Supabase
+- Real-time systems
+- SaaS MVPs & Scaling
+- Web3 fundamentals
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-mohan-256b2a226/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/utkarsh-mohan-256b2a226/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshmohan2003&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshmohan2003&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshmohan2003&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshmohan2003&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmohan2003&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmohan2003&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-🔥 *Always building. Always shipping.*
+<p align="center">
+  <b>🔥 Always building. Always shipping.</b>
+</p>
