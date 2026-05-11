@@ -22,7 +22,8 @@
 <td width="50%">
 
 - 🚀 Founder & Core Developer @ **EcoXange**
-- 🤖 Building **AI Calling & SaaS Platforms**
+- 🤖 Build **Ringlyn AI **
+- ♜ Building **freeChess.in with rating Algorithm**
 - 🧩 Focused on **scalable systems**
 - 🏀 Basketball Captain · URJA 2K24 🥇
 
@@ -39,12 +40,14 @@
 <hr/>
 
 <!-- ===================== CURRENT ===================== -->
-<h2>🔥 What I’m Building</h2>
+<h2>🔥 Current  </h2>
 
-- 📞 Human-like **AI Calling Agents**
-- ⚙️ **Next.js + Supabase** production platforms
-- 📊 Realtime dashboards & analytics
-- 🔐 Auth systems, WebSockets & scalable backends
+📞 Built human-like AI calling agents Ringlyn AI for inbound & outbound automation
+⚙️ Developed production-grade platforms using Next.js + Supabase
+📊 Engineered realtime dashboards, analytics, batch calling, multi-tenant architecture, Stripe integrations, and advanced agent behaviour systems including interruption handling, contextual responses, and dynamic call flows
+🤖 Built agent execution functions that connect with external CRMs & databases, enabling smart appointment booking, lead registration, and sentiment-analysis-driven workflows and User can purchase VOIP number from the platform
+🔐 Developed scalable backend systems with authentication, WebSockets, and realtime infrastructure
+
 
 <hr/>
 
